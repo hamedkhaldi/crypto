@@ -1,2 +1,3 @@
-Cryptanalysis of the Vigenere Cipher 
-Only English Texts
+Cryptanalysis of the Vigenere Cipher With Java
+
+Note : Only English Texts
