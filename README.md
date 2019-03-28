@@ -1,3 +1,3 @@
 # crypto
-Cryptanalysis using of different encryption methods using Java !
+Cryptanalysis of different encryption methods !
 
